@@ -104,7 +104,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -356,7 +357,7 @@ render.experimental.xml
 
 # Keystore files
 *.jks
-*.keystore
+# *.keystore
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
